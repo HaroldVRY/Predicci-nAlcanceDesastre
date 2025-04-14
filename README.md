@@ -4,7 +4,6 @@
 
 **WasiGuard** es un sistema integral de monitoreo, simulación y alerta temprana de huaicos en zonas vulnerables del Perú. Este proyecto combina análisis geoespacial, modelado de desastres naturales y tecnologías de visualización para ofrecer una herramienta predictiva que puede salvar vidas.
 
-> ⚠️ Este portafolio forma parte de un proyecto profesional orientado a la prevención de desastres en zonas con alta exposición a deslizamientos de tierra (huaicos), utilizando datos satelitales, sensores en campo, y participación ciudadana.
 
 ---
 
